@@ -5,8 +5,7 @@
 Лабораторная работа №1
 
  Диаграмма 6 вопросов
-
-(![](https://github.com/Facyman/kan.github.io/blob/master/model.png))
+![](https://github.com/Facyman/kan.github.io/blob/master/model.png)
 ССЫЛКА: 
 [МОДЕЛЬ](https://github.com/Facyman/kan.github.io/blob/master/model.png)
 
