@@ -24,3 +24,6 @@ PLANTUML - программное средство автоматической 
 
 
 Лабораторная работа №2
+![](https://github.com/Facyman/kan.github.io/blob/master/01_A0.jpg)
+![](https://github.com/Facyman/kan.github.io/blob/master/02_A0.jpg)
+![](https://github.com/Facyman/kan.github.io/blob/master/03_A3.jpg)
